@@ -26,7 +26,8 @@ Lägg in mockups, planer, ider och liknande här.
 # Webbsidan för allmänheten.
 * Ska visa dagens lunch på ett användarvänligt sätt.
 * Ska visa evangemang
-* Ska visa bokning
+* Kund ska kunna se lediga bord och utföra en bokning antingen via webbplatsen eller via telefonsamtal.
+    - Personalens applikation ska kunna utföra bokningar så att de kan hjälpa kunden via samtal.
 * Ska visa kontakt
 
   
