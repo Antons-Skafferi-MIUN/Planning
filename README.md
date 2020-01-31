@@ -1,2 +1,2 @@
 # Plannering
-readme.md
+Lägg in mockups, planer, ider och liknande här.
