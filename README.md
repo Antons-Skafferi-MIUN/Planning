@@ -7,7 +7,7 @@ Lägg in mockups, planer, ider och liknande här.
 * Applikation i mobil och/eller platta.
 * Köket ska kunna se ordrar på ett enkelt sätt och snabbt ta bort dom.
 * Bokningar ska kunna identifiera vilken kund som hör till vilket bord.
-* Schema
+* Schema för personal
     - Ska kunna ändra namn vilken personal som tillhör vilket pass. Detta så att personal kan enkelt byta.
     - Personal ska INTE kunna ta bort passen.
     - Personalen som äger passet ska få en bekräftelse vid byte.
