@@ -1,6 +1,7 @@
 # Planning
 Lägg in mockups, planer, ider och liknande här.
 
+new plan
 
 # System för personal
 * Databaskoppling. Sparar schema, ordrar och bokningar.
